@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/pihiwatari/dom-manipulation-workshop",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
